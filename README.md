@@ -2,4 +2,4 @@
 
 Here is my design process flow chart:
 
-![](https://github.com/clevelandhighschoolcs/p8designprocess-MilanDonhowe/blob/master/BathroomBuddyDesignProcessFlow.png)
+![](https://github.com/clevelandhighschoolcs/p8designprocess-MilanDonhowe/blob/master/FINAL.png)
